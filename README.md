@@ -40,7 +40,43 @@ Example: Reduce the number of service requests needing rework (measure) by 3% to
 Tip: Use ranges of targets when possible.</td>
   </tr>
      <tr>
-    <td>4. Define Two Performance Standards: Achieved Expectation</td>
-    <td>USSS 4-level performance rating program requires that Goal Performance Standards must be formally written in the Work Plan at two levels — Acceptable (Level 3) and Outstanding (Level 5) - for each performance goal. Defining these two performance standards helps employees and Rating Officials determine and evaluate performance at the four different levels.</td>
+    <td>4. Define Two Performance Standards: Achived Expectations and Achived Excellence</td>
+    <td>USSS 4-level performance rating program requires that Goal Performance Standards must be formally written in the Work Plan at two levels — Acceptable (Level 3) and Outstanding (Level 5) - for each performance goal. Defining these two performance standards helps employees and Rating Officials determine and evaluate performance at the four different levels.
+
+1. Unacceptable (Level 1): Employee performance was below the “Acceptable” standard (This level does not have to be written since it is determined by Level 3 i.e., if the employee work products do not meet the Level 3, then the employee efforts are below the “retention standard” and appropriate action is prescribed).
+Acceptable(Level 3)     
+
+    Performance standards written at this level should ensure supervisory and/or organizational goals and priorities are achieved. Employees who receive a rating of Acceptable at the end of the rating cycle will have substantively contributed to the achievement of their supervisor and/or organizational goal(s). For example:
+- Increased the number of inspections by 8% during this performance cycle
+- Assigned all available slots for Special Skills Training
+- Updates and tests COOP as required by regulations and law
+2. Exceeded Expectations (Level 4)
+
+Employee performed at a level between the “Outstanding” and the
+
+“Acceptable” standards (this level does not have to be written at the beginning of the appraisal period since it is established as a level between Level 3 and Level 5)
+
+ 
+
+3. Outstanding(Level 5): At the “Outstanding” level, the written performance standards should reflect a significantly higher level of performance than at the level of “Achieved Expectations” – it should describe a contribution (result) that is well beyond what might ordinarily be expected or results in significant cost savings.
+
+Other Examples:
+- Increased the ratio of inspections to vehicles by 15% during this performance cycle
+- In addition to the mandated table exercise, conducted additional exercise(s) with other internal/external offices/agencies for specific local issues during this performance cycle</td>
+    <tr>
+    <td>5. Ensure Balance</td>
+    <td>Check goals and performance standards for balance among all the factors addressed, and consider, among other issues, matters such as:
+
+  - The need for speed or increases in quantity while maintaining quality
+  - The need for meeting project timelines with the need for cost effectiveness
+  - The need for levels of approval with the need for meeting deadlines set externally
+  - The need to maintain customer satisfaction while keeping costs down
+  - The requirement to meet target dates in the face of reduced staffing</td>
   </tr>
 </table> 
+
+FINAL VALIDATION: The Goals and associated Standards must then be reviewed against the SMART criteria to ensure they are reasonable, fair, and easily understood.
+
+<h2></h2>
+<p align="center">
+  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
