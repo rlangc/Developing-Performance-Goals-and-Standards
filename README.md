@@ -13,12 +13,12 @@ This job aid provides a structured approach to creating clear, measurable, and a
   </tr>
   <tr>
     <td>2. Focus on Individual Results</td>
-    <td>To develop effective performance goals, it is essential to clearly define the desired outcome or deliverable that should result from achieving the goal. Once the outcome is established, identify the key actions necessary for successful completion. This process helps create performance standards that support goal accomplishment and ensure alignment with organizational objectives.
-     
-An outcome is a specific result or impact that contributes to the success of a supervisor’s goal or the broader organizational mission. For example, an outcome might be to increase situational awareness or improve border security within a given operational area.
-
-To achieve the desired outcome, organizations must define the critical actions required. These are the key steps or behaviors necessary for success. For example, to improve border security, a critical action might be to maintain a well-trained workforce with strong security awareness skills or effectively manage port infrastructure, including IT systems such as portals and computer networks.
-
+    <td>To develop effective performance goals, it is essential to clearly define the desired outcome or deliverable that should result from achieving the goal. Once the outcome is established, identify the key actions necessary for successful completion. This process helps create performance standards that support goal accomplishment and ensure alignment with organizational objectives.<br>
+<br>
+An outcome is a specific result or impact that contributes to the success of a supervisor’s goal or the broader organizational mission. For example, an outcome might be to increase situational awareness or improve border security within a given operational area.<br>
+<br>
+To achieve the desired outcome, organizations must define the critical actions required. These are the key steps or behaviors necessary for success. For example, to improve border security, a critical action might be to maintain a well-trained workforce with strong security awareness skills or effectively manage port infrastructure, including IT systems such as portals and computer networks.<br>
+<br>
 By clearly outlining both the intended outcome and the critical actions needed to accomplish it, organizations create a structured approach to performance management that enhances clarity, accountability, and strategic alignment.</td>
   </tr>
      <tr>
@@ -41,8 +41,9 @@ Tip: When possible, use target ranges instead of fixed numbers to allow for flex
      <tr>
     <td>4. Define Two Performance Standards: Achived Expectations and Achived Excellence</td>
     <td>Organizations that use a structured performance rating system typically define Goal Performance Standards at multiple levels to ensure clarity in performance expectations. Performance standards should be formally documented in work plans at both the Acceptable and Outstanding levels. Clearly defining these standards helps employees and supervisors assess and evaluate performance across all rating levels.
-Performance Rating Levels
-
+<br>
+<h4>Performance Rating Levels:</h4>
+     
 1. Unacceptable (Level 1) – Performance falls below the acceptable standard. This level does not need to be pre-defined, as it is determined by failure to meet the Acceptable standard. If an employee’s work does not meet the minimum criteria, it is considered below the required retention standard, and appropriate action may be necessary.
 2. Acceptable (Level 3) – Performance at this level ensures that key organizational goals and priorities are met. Employees rated as Acceptable have meaningfully contributed to their supervisor’s or the organization's overall objectives. Examples of performance at this level include:
     - Increasing the number of completed inspections by 8% within the performance cycle
@@ -68,7 +69,7 @@ By carefully evaluating these factors, organizations can establish well-rounded 
   </tr>
 </table> 
 
-FINAL VALIDATION: The Goals and associated Standards must then be reviewed against the SMART criteria to ensure they are reasonable, fair, and easily understood.
+The Goals and associated standards must then be reviewed against the SMART criteria to ensure they are reasonable, fair, and easily understood.
 
 <h2></h2>
 <p align="center">
