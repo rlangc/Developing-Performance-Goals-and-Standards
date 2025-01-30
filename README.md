@@ -2,7 +2,6 @@
 
 This job aid provides a structured approach to creating clear, measurable, and achievable performance goals and standards. It guides users through defining expectations, aligning goals with organizational objectives, and establishing criteria for measuring success. The aid is useful for managers, team leads, and employees looking to improve performance management and accountability.
 
-<h3>DevOps vs. Traditional IT Operations:</h3>
  <table>
   <tr>
     <th>Step</th>
@@ -10,68 +9,62 @@ This job aid provides a structured approach to creating clear, measurable, and a
   </tr>
   <tr>
     <td>1. Align with Organizational Goals</td>
-    <td>Individual employee performance Goals “cascade” down from the top of the respective organization with a clear “line of sight” connecting the goals of the lowest established organization with the goals of higher-level organizations. Every employee’s individual goals and associated performance standards should be developed to align with and support successful achievement of their supervisor’s goals, and then, subsequently, USSS organizational goals.</td>
+    <td>Individual employee performance goals should align with the broader objectives of the organization, creating a clear "line of sight" between individual contributions and higher-level strategic goals. Goals should cascade from leadership down through each level of the organization, ensuring that every employee’s objectives support the success of their supervisor’s goals and, ultimately, the organization’s overall mission. By maintaining this alignment, organizations can drive cohesion, accountability, and collective success.</td>
   </tr>
   <tr>
     <td>2. Focus on Individual Results</td>
-    <td>Define the desired outcome or deliverable that should result from accomplishment of the goal and then identify the critical action(s) necessary to successfully achieve the goal. As you accomplish this definition, you are beginning to establish the performance standards supporting accomplishment of the goal.
+    <td>To develop effective performance goals, it is essential to clearly define the desired outcome or deliverable that should result from achieving the goal. Once the outcome is established, identify the key actions necessary for successful completion. This process helps create performance standards that support goal accomplishment and ensure alignment with organizational objectives.
+     
+An outcome is a specific result or impact that contributes to the success of a supervisor’s goal or the broader organizational mission. For example, an outcome might be to increase situational awareness or improve border security within a given operational area.
 
-Outcome — an intended result or impact that supports the supervisor’s goal or the organizational goals, e.g.:
-- Increase situational awareness
-- Improve border security
+To achieve the desired outcome, organizations must define the critical actions required. These are the key steps or behaviors necessary for success. For example, to improve border security, a critical action might be to maintain a well-trained workforce with strong security awareness skills or effectively manage port infrastructure, including IT systems such as portals and computer networks.
 
-Critical Action(s) — the key action(s) to be taken to achieve the desired outcome, e.g.:
-- Maintain well trained workforce regarding security awareness skills
-- Effectively manage port infrastructure including IT (e.g.: portals, computer systems)</td>
+By clearly outlining both the intended outcome and the critical actions needed to accomplish it, organizations create a structured approach to performance management that enhances clarity, accountability, and strategic alignment.</td>
   </tr>
      <tr>
     <td>3. Include Measures and Targets</td>
-    <td>Each goal and associated performance standard contains measures (what is to be done) and targets (how it is to be done, i.e., standards) that are achievable and realistic for the position’s span of authorized control.
+    <td>Here’s your revised content with a sentence-based format for better readability and flow:
 
-Measures focus on what is to be accomplished and are a source of information used to track a desired outcome. There are generally two basic types of measures:
+Each performance goal and its associated performance standard should include both measures—what is to be accomplished—and targets—how it should be achieved. These measures and targets must be realistic and attainable within the employee’s scope of responsibility.
 
-- Recurring — usually measured as rate, frequency, number, or percentage
-- Project or one time — usually measured by time deadline, cost, and quality levels
+Measures define what needs to be accomplished and serve as key indicators for tracking progress toward a desired outcome. There are two primary types of measures:
 
-Targets are the “score” or performance standards that describe when or how something is to be completed – by a certain date, in accordance with standard operating procedures, within budget. Standards are usually arrived at based on managers, supervisors, or organizational strategic objectives or targets; historical data (increases over past performance); customer requirements; or external standards set outside the organization, including public law or regulatory bodies.
+- Recurring measures are tracked over time and are often expressed as a rate, frequency, number, or percentage.
+- Project-based or one-time measures are used for specific initiatives and are typically evaluated based on deadlines, cost, and quality levels.
 
-Example: Reduce the number of service requests needing rework (measure) by 3% to 5% (target) for this performance cycle
+Targets establish performance standards by specifying when or how something should be completed. They may be defined by deadlines, adherence to standard operating procedures, budget constraints, or other criteria. Performance standards can be based on managerial expectations, organizational objectives, historical performance data, customer requirements, or external regulations such as public laws and industry standards.
 
-Tip: Use ranges of targets when possible.</td>
+For example, a goal might be to reduce the number of service requests requiring rework (measure) by 3% to 5% (target) during the current performance cycle.
+
+Tip: When possible, use target ranges instead of fixed numbers to allow for flexibility while maintaining performance expectations.</td>
   </tr>
      <tr>
     <td>4. Define Two Performance Standards: Achived Expectations and Achived Excellence</td>
-    <td>USSS 4-level performance rating program requires that Goal Performance Standards must be formally written in the Work Plan at two levels — Acceptable (Level 3) and Outstanding (Level 5) - for each performance goal. Defining these two performance standards helps employees and Rating Officials determine and evaluate performance at the four different levels.
+    <td>Organizations that use a structured performance rating system typically define Goal Performance Standards at multiple levels to ensure clarity in performance expectations. Performance standards should be formally documented in work plans at both the Acceptable and Outstanding levels. Clearly defining these standards helps employees and supervisors assess and evaluate performance across all rating levels.
+Performance Rating Levels
 
-1. Unacceptable (Level 1): Employee performance was below the “Acceptable” standard (This level does not have to be written since it is determined by Level 3 i.e., if the employee work products do not meet the Level 3, then the employee efforts are below the “retention standard” and appropriate action is prescribed).
-Acceptable(Level 3)     
+1. Unacceptable (Level 1) – Performance falls below the acceptable standard. This level does not need to be pre-defined, as it is determined by failure to meet the Acceptable standard. If an employee’s work does not meet the minimum criteria, it is considered below the required retention standard, and appropriate action may be necessary.
+2. Acceptable (Level 3) – Performance at this level ensures that key organizational goals and priorities are met. Employees rated as Acceptable have meaningfully contributed to their supervisor’s or the organization's overall objectives. Examples of performance at this level include:
+    - Increasing the number of completed inspections by 8% within the performance cycle
+    - Assigning all available slots for specialized training programs
+    - Updating and testing contingency plans as required by regulations and policies
+3. Exceeded Expectations (Level 4) – This level represents performance that falls between Acceptable and Outstanding. It is not pre-defined at the beginning of the performance cycle but is determined based on performance that surpasses Acceptable expectations yet does not fully reach the Outstanding level.
+4. Outstanding (Level 5) – Performance at this level significantly exceeds expectations and often results in notable improvements, efficiencies, or cost savings. Employees who achieve this rating demonstrate exceptional contributions beyond standard requirements. Examples include:
+    - Increasing the ratio of inspections to vehicles by 15% within the performance cycle
+    - Conducting additional training exercises beyond the required drills, including collaboration with internal and external agencies to address specific challenges
 
-    Performance standards written at this level should ensure supervisory and/or organizational goals and priorities are achieved. Employees who receive a rating of Acceptable at the end of the rating cycle will have substantively contributed to the achievement of their supervisor and/or organizational goal(s). For example:
-- Increased the number of inspections by 8% during this performance cycle
-- Assigned all available slots for Special Skills Training
-- Updates and tests COOP as required by regulations and law
-2. Exceeded Expectations (Level 4)
-
-Employee performed at a level between the “Outstanding” and the
-
-“Acceptable” standards (this level does not have to be written at the beginning of the appraisal period since it is established as a level between Level 3 and Level 5)
-
- 
-
-3. Outstanding(Level 5): At the “Outstanding” level, the written performance standards should reflect a significantly higher level of performance than at the level of “Achieved Expectations” – it should describe a contribution (result) that is well beyond what might ordinarily be expected or results in significant cost savings.
-
-Other Examples:
-- Increased the ratio of inspections to vehicles by 15% during this performance cycle
-- In addition to the mandated table exercise, conducted additional exercise(s) with other internal/external offices/agencies for specific local issues during this performance cycle</td>
+By clearly defining performance standards at key levels, organizations can promote accountability, encourage high performance, and provide employees with a structured framework for success.</td>
     <tr>
     <td>5. Ensure Balance</td>
-    <td>Check goals and performance standards for balance among all the factors addressed, and consider, among other issues, matters such as:
+    <td>When setting performance goals and standards, it is essential to maintain a balance between competing priorities. Consider the following factors to ensure that objectives are realistic, achievable, and aligned with organizational needs:
 
-  - The need for speed or increases in quantity while maintaining quality
-  - The need for meeting project timelines with the need for cost effectiveness
-  - The need for levels of approval with the need for meeting deadlines set externally
-  - The need to maintain customer satisfaction while keeping costs down
-  - The requirement to meet target dates in the face of reduced staffing</td>
+- The need to increase speed or productivity while maintaining quality standards
+- The need to meet project deadlines while ensuring cost efficiency
+- The need to obtain necessary approvals while adhering to externally imposed deadlines
+- The need to maintain high levels of customer satisfaction while controlling costs
+- The need to achieve target milestones despite resource constraints, such as reduced staffing
+
+By carefully evaluating these factors, organizations can establish well-rounded performance goals that drive success without compromising essential priorities.</td>
   </tr>
 </table> 
 
