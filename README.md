@@ -73,4 +73,4 @@ The Goals and associated standards must then be reviewed against the SMART crite
 
 <h2></h2>
 <p align="center">
-  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
+  <a href="https://github.com/rlangc"><b>Return to Home</b></a>
